@@ -1,0 +1,44 @@
+[
+	{
+		"HospitalInfo": {
+			"Name": "Bansal Hospital Bhopal ! A Multispecialty Hospital",
+			"Rating": "4.2",
+			"Number": "0755 408 6000",
+			"Address": "Address: Chuna Bhatti Rd, Manisha Market, Sector C, Shahpura, Bhopal, Madhya Pradesh 462016",
+			"Timings": "Open 24 hours"
+		},
+		"GmapLinks": {
+			"ETA": "3 hr 26 min",
+			"Distance": "(188 km)",
+			"Google_Maps_Link": "https://www.google.com/maps/dir/County+Walk+Twp,+Indore,+Madhya+Pradesh+453771/Bansal+Hospital+Bhopal+!+A+Multispecialty+Hospital,+Chuna+Bhatti+Rd,+Manisha+Market,+Sector+C,+Shahpura,+Bhopal,+Madhya+Pradesh+462016/@22.9030346,76.1104217,9z/am=t/data=!4m13!4m12!1m5!1m1!1s0x3962e28027225669:0xc627810466c09cab!2m2!1d75.9535815!2d22.765564!1m5!1m1!1s0x397c43bc9994d78d:0x7a01333cf1304a82!2m2!1d77.4199205!2d23.1994795"
+		}
+	},
+	{
+		"HospitalInfo": {
+			"Name": "Matratva Hospital",
+			"Rating": "4.1",
+			"Number": "0755 420 6040",
+			"Address": "Address: B-280, Kolar Road, Sarvdharm Colony, Bhopal, Madhya Pradesh 462042",
+			"Timings": "Open 24 hours"
+		},
+		"GmapLinks": {
+			"ETA": "3 hr 26 min",
+			"Distance": "(188 km)",
+			"Google_Maps_Link": "https://www.google.com/maps/dir/County+Walk+Twp,+Indore,+Madhya+Pradesh+453771/Matratva+Hospital,+B-280,+Kolar+Road,+Sarvdharm+Colony,+Bhopal,+Madhya+Pradesh+462042/@22.9030346,76.1089391,9z/am=t/data=!4m13!4m12!1m5!1m1!1s0x3962e28027225669:0xc627810466c09cab!2m2!1d75.9535815!2d22.765564!1m5!1m1!1s0x397c430c6b0fd2cd:0x88c1e49b0356378!2m2!1d77.4174135!2d23.1878658"
+		}
+	},
+	{
+		"HospitalInfo": {
+			"Name": "Shekhar Hospital",
+			"Rating": "3.6",
+			"Number": "0755 242 5242",
+			"Address": "Address: Nr Loyala Ashram, A 69, Shahpura Rd, Manisha Market, Sector A, Shahpura, Bhopal, Madhya Pradesh 462016",
+			"Timings": "Open 24 hours"
+		},
+		"GmapLinks": {
+			"ETA": "3 hr 28 min",
+			"Distance": "(188 km)",
+			"Google_Maps_Link": "https://www.google.com/maps/dir/County+Walk+Twp,+Indore,+Madhya+Pradesh+453771/Shekhar+Hospital,+Nr+Loyala+Ashram,+A+69,+Shahpura+Rd,+Manisha+Market,+Sector+A,+Shahpura,+Bhopal,+Madhya+Pradesh+462016/@22.9030346,76.1133449,9z/am=t/data=!4m13!4m12!1m5!1m1!1s0x3962e28027225669:0xc627810466c09cab!2m2!1d75.9535815!2d22.765564!1m5!1m1!1s0x397c43a98885567f:0x5517422d1e9e84fe!2m2!1d77.4263761!2d23.2016381"
+		}
+	}
+]
