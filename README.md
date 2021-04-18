@@ -1,2 +1,1 @@
-# Hospital-Geolocator
-Description:
+## Instructions
