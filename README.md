@@ -3,7 +3,7 @@
 </h1>
 
 # Description:
-### Hospital Geolocator is made on #Automation and #WebScraping using #puppeteer(which is a Node library) in #JavaScript.
+### Hospital Geolocator is made on Automation and WebScraping using puppeteer(which is a Node library) in JavaScript.
 ### Some features of this project are -
 - Gathers Information about nearby Hospitals along with their Images.
 - For all scrapped Hospitals it navigates to Google Maps, enters their location, selects the shortest route, and extracts all relevant information along with a screenshot of the route and google maps link.
